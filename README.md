@@ -1,6 +1,5 @@
 # Multiplayer-Tron
-I wanted to make multiplayer games because I wanted others to experience my work. I programed a multiplayer tron light bike game allowing 
-to players to on their own machines. I programmed this Junior year during Christmas break.
+I wanted to make multiplayer games because I wanted my friends to play my games with me. So, I programed a multiplayer tron light bike game during my junior year Christmas break.
 
 WHAT I LEARNED:
 - UDP Java
